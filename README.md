@@ -66,11 +66,8 @@ There is a statistically significant difference in customer spending between the
 
 ### 📊 Customer Spending Distribution
 
-You can save the output chart from your Python code as an image (like `spending_distribution.png`) and include it here using:
+![Spending Distribution](images/spending_distribution.png)
 
-```markdown
-![Customer Spending Distribution](images/spending_distribution.png)
-```
 
 
 ## 📜 License
