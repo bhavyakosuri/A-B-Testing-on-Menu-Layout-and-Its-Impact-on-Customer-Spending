@@ -73,16 +73,6 @@ You can save the output chart from your Python code as an image (like `spending_
 ```
 
 
-## 👥 Authors
-
-* K. Hasmith (CB.EN.U4CSE22327)
-* K. Bhavya (CB.EN.U4CSE22328)
-* K. Bhavana (CB.EN.U4CSE22329)
-* Krishnam Abhina (CB.EN.U4CSE22331)
-* K. Sanjay (CB.EN.U4CSE22332)
-
----
-
 ## 📜 License
 
 This project is intended for academic and demonstration purposes only.
